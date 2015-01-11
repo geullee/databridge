@@ -4,7 +4,7 @@
 
   <groupId>kr.geul</groupId>
   <artifactId>databridge</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2</version>
   <packaging>jar</packaging>
 
   <name>databridge</name>
@@ -30,11 +30,6 @@
     	<groupId>kr.geul</groupId>
     	<artifactId>dataobject</artifactId>
     	<version>0.1-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-    	<groupId>kr.geul</groupId>
-    	<artifactId>thesis1</artifactId>
-    	<version>0.1</version>
     </dependency>
   </dependencies>
 </project>
